@@ -1,6 +1,6 @@
 ### Hi, I'm [Sonika](https://sonikajanagill.com/) 👋 
 **Google Developer Expert (GDE) in Cloud AI and Google Cloud**  
-Lead Backend Engineer at VML · Data/MLOps Engineer at WPP Media (Satalia)  
+Lead Backend Engineer at VML · Data/MLOps Engineer 
 Watford, UK
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonikajanagill&label=Profile%20views&color=0e75b6&style=flat" alt="Sonika Janagill" /> </p>
@@ -52,7 +52,7 @@ All articles are published first at [sonikajanagill.com](https://sonikajanagill.
 | Commerce | UCP · AP2 · A2A · MCP · Shopify MCP · Merchant Centre |
 | Cloud | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white) · ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?logo=aws&logoColor=FF9900) · ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
 | Backend | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) · ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=jdk&logoColor=white) · Spring Boot · Node.js · Terraform |
-| Data | BigQuery · InfoSum · Dataproc · Cloud Composer |
+| Data | BigQuery · Dataproc · Cloud Composer |
 | Certs | GCP Professional Architect · GCP Professional ML Engineer · Google Generative AI Leader|
  
 <br />

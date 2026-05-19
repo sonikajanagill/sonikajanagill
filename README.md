@@ -14,7 +14,7 @@ Watford, UK
  
 I build production AI systems at the intersection of ecommerce and Google Cloud, also as my GDE focus. My current projects span agentic commerce protocols (UCP, ACP, MCP), MLOps on Vertex AI, and enterprise agent architectures.
  
-**Day job:** [OpenIntelligence](https://www.wppmedia.com/what-we-do/open-intelligence), a three-layer MLOps platform on Vertex AI for WPP Media: federated data via InfoSum, a Large Marketing Model trained on real-time signals, and an activation layer across channels and clouds.
+**Day job:** On MLOps platform on Vertex AI, a Large Marketing Model trained on real-time signals, and an activation layer across channels and clouds.
  
 **Tech community work:** Running the VML AI Guild (250+ engineers across six countries), leading the Women Coding Community AI Learning Series, and building POCs at the edge of what agent protocols can do in commerce.
 <br />

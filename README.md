@@ -25,7 +25,6 @@ I build production AI systems at the intersection of ecommerce and Google Cloud,
 | Project | What it is |
 |---|---|
 | [agentic-commerce](https://github.com/sonikajanagill/agentic-commerce) | Multi-protocol commerce server: UCP, ACP, MCP. Buyer and merchant agents, full-duplex checkout via ADK. |
-| OpenIntelligence | Production MLOps platform on Vertex AI Pipelines (KFP v2). Federated data, LMM training, activation. |
 | [Prism](https://github.com/sonikajanagill/prism) | AI Article Agent for GDE thought leadership. Multi-agent ADK system: scouts, researches, and recommends article topics using a 3-tier content strategy framework. |
 | AgentSkills | Enterprise agent skills repo for VML AI SDLC workflows. |
 | Arch-Lens | Multimodal architecture diagram tool. |
@@ -39,7 +38,7 @@ I write about agentic commerce, Vertex AI, and Google Cloud for the [Google Clou
 Recent and ongoing series:
  
 - **Agentic Commerce on Google Cloud** — Gemma 4, ADK, UCP, AP2, A2A end to end
-- **OpenIntelligence: MLOps at Scale on Vertex AI** — KFP v2, federated data, LMM training
+- **MLOps at Scale on Vertex AI** — KFP v2, federated data, LMM training
  
 All articles are published first at [sonikajanagill.com](https://sonikajanagill.com) with canonicals to Medium, Dev.to, and Hackernoon.
  

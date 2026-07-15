@@ -1,12 +1,14 @@
+<img src="assets/emerald-dawn-banner.svg" alt="Sonika Janagill — Google Developer Expert in Cloud AI and Google Cloud" width="100%" />
+
 ### Hi, I'm [Sonika](https://sonikajanagill.com/) 👋 
 **Google Developer Expert (GDE) in Cloud AI and Google Cloud**  
 Lead Backend Engineer at VML · Data/MLOps Engineer 
 Watford, UK
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonikajanagill&label=Profile%20views&color=0e75b6&style=flat" alt="Sonika Janagill" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonikajanagill&label=Profile%20views&color=0F8A6D&style=flat" alt="Sonika Janagill" /> </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonikaj/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sonika.janagill) [![Website](https://img.shields.io/badge/Website-%234285F4.svg?logo=google-chrome&logoColor=white)](https://sonikajanagill.com/) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/YOUR_X_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonikaj/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sonika.janagill) [![Website](https://img.shields.io/badge/Website-%230F8A6D.svg?logo=google-chrome&logoColor=white)](https://sonikajanagill.com/) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/YOUR_X_HANDLE)
 <br />
 
 ## What I work on
@@ -47,9 +49,9 @@ All articles are published first at [sonikajanagill.com](https://sonikajanagill.
 ## Stack
 | Stack | Technologies|
 |---|---|
-| AI/ML | ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?logo=google-cloud&logoColor=white) · ![ADK](https://img.shields.io/badge/ADK-4285F4?logo=google-cloud&logoColor=white) · ![Gemma 4](https://img.shields.io/badge/Gemma%204-4285F4?logo=google&logoColor=white) · ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white) · ![KFP v2](https://img.shields.io/badge/KFP%20v2-4285F4?logo=apache&logoColor=white) · ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) · ![RAG](https://img.shields.io/badge/RAG-FF6B6B?logoColor=white) · ![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6B6B?logoColor=white) |
+| AI/ML | ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-0F8A6D?logo=google-cloud&logoColor=white) · ![ADK](https://img.shields.io/badge/ADK-16808F?logo=google-cloud&logoColor=white) · ![Gemma 4](https://img.shields.io/badge/Gemma%204-0F8A6D?logo=google&logoColor=white) · ![Gemini](https://img.shields.io/badge/Gemini-16808F?logo=google&logoColor=white) · ![KFP v2](https://img.shields.io/badge/KFP%20v2-0F8A6D?logo=apache&logoColor=white) · ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) · ![RAG](https://img.shields.io/badge/RAG-16808F?logoColor=white) · ![Vector DBs](https://img.shields.io/badge/Vector_DBs-0F8A6D?logoColor=white) |
 | Commerce | UCP · AP2 · A2A · MCP · Shopify MCP · Merchant Centre |
-| Cloud | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white) · ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?logo=aws&logoColor=FF9900) · ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
+| Cloud | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%230F8A6D.svg?logo=google-cloud&logoColor=white) · ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?logo=aws&logoColor=FF9900) · ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
 | Backend | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) · ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=jdk&logoColor=white) · Spring Boot · Node.js · Terraform |
 | Data | BigQuery · Dataproc · Cloud Composer |
 | Certs | GCP Professional Architect · GCP Professional ML Engineer · Google Generative AI Leader|
@@ -67,13 +69,27 @@ All articles are published first at [sonikajanagill.com](https://sonikajanagill.
 <br />
 
 ## 🎓 Certifications:
-![GCP Professional Cloud Architect](https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?logo=google-cloud&logoColor=white) ![GCP Professional ML Engineer](https://img.shields.io/badge/GCP-Professional%20ML%20Engineer-4285F4?logo=google-cloud&logoColor=white) ![Google Generative AI Leader](https://img.shields.io/badge/Google-Generative%20AI%20Leader-4285F4?logo=google-cloud&logoColor=white)
+![GCP Professional Cloud Architect](https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-0F8A6D?logo=google-cloud&logoColor=white) ![GCP Professional ML Engineer](https://img.shields.io/badge/GCP-Professional%20ML%20Engineer-0F8A6D?logo=google-cloud&logoColor=white) ![Google Generative AI Leader](https://img.shields.io/badge/Google-Generative%20AI%20Leader-0F8A6D?logo=google-cloud&logoColor=white)
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sonikajanagill&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sonikajanagill&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonikajanagill&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sonikajanagill&hide_border=false&include_all_commits=false&count_private=false&title_color=4FC3A1&icon_color=5FB7C4&text_color=9AB0A4&bg_color=1A2A22&border_color=26382E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sonikajanagill&hide_border=false&include_all_commits=false&count_private=false&title_color=0F8A6D&icon_color=16808F&text_color=4E6459&bg_color=FFFFFF&border_color=DCE5DD" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonikajanagill&hide_border=false&include_all_commits=false&count_private=false&title_color=0F8A6D&icon_color=16808F&text_color=4E6459&bg_color=FFFFFF&border_color=DCE5DD" alt="Sonika's GitHub stats" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sonikajanagill&hide_border=false&background=1A2A22&border=26382E&stroke=26382E&ring=4FC3A1&fire=F2A05F&currStreakNum=E4EEE8&sideNums=E4EEE8&currStreakLabel=4FC3A1&sideLabels=9AB0A4&dates=9AB0A4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sonikajanagill&hide_border=false&background=FFFFFF&border=DCE5DD&stroke=DCE5DD&ring=0F8A6D&fire=F2A05F&currStreakNum=17251E&sideNums=17251E&currStreakLabel=0F8A6D&sideLabels=4E6459&dates=4E6459" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonikajanagill&hide_border=false&background=FFFFFF&border=DCE5DD&stroke=DCE5DD&ring=0F8A6D&fire=F2A05F&currStreakNum=17251E&sideNums=17251E&currStreakLabel=0F8A6D&sideLabels=4E6459&dates=4E6459" alt="Sonika's GitHub streak" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikajanagill&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=4FC3A1&text_color=9AB0A4&bg_color=1A2A22&border_color=26382E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikajanagill&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=0F8A6D&text_color=4E6459&bg_color=FFFFFF&border_color=DCE5DD" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonikajanagill&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=0F8A6D&text_color=4E6459&bg_color=FFFFFF&border_color=DCE5DD" alt="Sonika's top languages" />
+</picture>
 
 <br />
 
@@ -83,7 +99,7 @@ All articles are published first at [sonikajanagill.com](https://sonikajanagill.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonikaj/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?logo=medium&logoColor=white)](https://medium.sonikajanagill.com)
-[![Website](https://img.shields.io/badge/Website-Visit-4285F4?logo=google-chrome&logoColor=white)](https://sonikajanagill.com/)
+[![Website](https://img.shields.io/badge/Website-Visit-0F8A6D?logo=google-chrome&logoColor=white)](https://sonikajanagill.com/)
 
 </div>
 <br />

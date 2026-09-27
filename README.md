@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/emerald-dawn-banner-dark.svg" />
-  <img src="assets/emerald-dawn-banner.svg" alt="Sonika Janagill — Google Developer Expert in Cloud AI and Google Cloud. Build with AI. Know when not to." width="100%" />
+  <img src="assets/emerald-dawn-banner.svg" alt="Sonika Janagill, Google Developer Expert in Cloud AI and Google Cloud. Build with AI. Know when not to." width="100%" />
 </picture>
 
 ### Hi, I'm [Sonika](https://sonikajanagill.com/) 👋
@@ -15,16 +15,16 @@
 
 ~20 years building enterprise systems, now focused on AI and agentic systems on Google Cloud: agentic ecommerce, Google's Agent Development Kit (ADK), and Gemini Enterprise Agent Platform.
 
-- **Across WPP:** Agentic Commerce group · Agent Skills programme · AI Guild — driving enterprise adoption of agentic AI at scale.
+- **Across WPP:** Agentic Commerce group · Agent Skills programme · AI Guild, driving enterprise adoption of agentic AI at scale.
 - **Community:** Women Coding Community Lead and co-instructor of the AI Learning Series · GDE programme volunteer · mentoring engineers moving into AI/ML.
 
 ## Projects and writing
 
 Current projects, articles and talks all live on my website, so they stay up to date in one place:
 
-- **[Articles](https://sonikajanagill.com/articles/)** — agentic commerce, ADK, Gemini Enterprise Agent Platform, MLOps and Google Cloud
-- **[Speaking](https://sonikajanagill.com/speaking/)** — talks, workshops and slides
-- **[sonikajanagill.com](https://sonikajanagill.com/)** — what I'm working on now
+- **[Articles](https://sonikajanagill.com/articles/)**: agentic commerce, ADK, Gemini Enterprise Agent Platform, MLOps and Google Cloud
+- **[Speaking](https://sonikajanagill.com/speaking/)**: talks, workshops and slides
+- **[sonikajanagill.com](https://sonikajanagill.com/)**: what I'm working on now
 
 ## Stack
 

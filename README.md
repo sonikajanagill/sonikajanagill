@@ -18,21 +18,13 @@
 - **Across WPP:** Agentic Commerce group · Agent Skills programme · AI Guild — driving enterprise adoption of agentic AI at scale.
 - **Community:** Women Coding Community Lead and co-instructor of the AI Learning Series · GDE programme volunteer · mentoring engineers moving into AI/ML.
 
-## Active projects
+## Projects and writing
 
-| Project | What it is |
-|---|---|
-| [agentic-commerce](https://github.com/sonikajanagill/agentic-commerce) | Multi-protocol commerce server (UCP, ACP, MCP) with buyer and merchant agents and full-duplex checkout via ADK. |
-| [Prism](https://github.com/sonikajanagill/prism) | Multi-agent ADK system that scouts, researches, and recommends article topics. |
-| Agent Skills | Enterprise agent skills for AI-assisted SDLC workflows. |
-| Arch-Lens | Multimodal architecture diagram tool. |
+Current projects, articles and talks all live on my website, so they stay up to date in one place:
 
-## Writing
-
-I write about agentic commerce, Vertex AI, and Google Cloud at [sonikajanagill.com](https://sonikajanagill.com), cross-posted to the [Google Cloud Community on Medium](https://medium.sonikajanagill.com).
-
-- **Agentic Commerce on Google Cloud** — Gemma 4, ADK, UCP, AP2, A2A end to end
-- **MLOps at Scale on Vertex AI** — KFP v2, federated data, LMM training
+- **[Articles](https://sonikajanagill.com/articles/)** — agentic commerce, ADK, Vertex AI, MLOps and Google Cloud
+- **[Speaking](https://sonikajanagill.com/speaking/)** — talks, workshops and slides
+- **[sonikajanagill.com](https://sonikajanagill.com/)** — what I'm working on now
 
 ## Stack
 

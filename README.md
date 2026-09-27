@@ -13,7 +13,7 @@
 
 ## What I work on
 
-~20 years building enterprise systems, now focused on AI and agentic systems on Google Cloud: agentic ecommerce, Google's Agent Development Kit (ADK), and Vertex AI.
+~20 years building enterprise systems, now focused on AI and agentic systems on Google Cloud: agentic ecommerce, Google's Agent Development Kit (ADK), and Gemini Enterprise Agent Platform.
 
 - **Across WPP:** Agentic Commerce group · Agent Skills programme · AI Guild — driving enterprise adoption of agentic AI at scale.
 - **Community:** Women Coding Community Lead and co-instructor of the AI Learning Series · GDE programme volunteer · mentoring engineers moving into AI/ML.
@@ -22,7 +22,7 @@
 
 Current projects, articles and talks all live on my website, so they stay up to date in one place:
 
-- **[Articles](https://sonikajanagill.com/articles/)** — agentic commerce, ADK, Vertex AI, MLOps and Google Cloud
+- **[Articles](https://sonikajanagill.com/articles/)** — agentic commerce, ADK, Gemini Enterprise Agent Platform, MLOps and Google Cloud
 - **[Speaking](https://sonikajanagill.com/speaking/)** — talks, workshops and slides
 - **[sonikajanagill.com](https://sonikajanagill.com/)** — what I'm working on now
 
@@ -30,7 +30,7 @@ Current projects, articles and talks all live on my website, so they stay up to 
 
 | | |
 |---|---|
-| **AI/ML** | Vertex AI · ADK · Gemini · Gemma 4 · KFP v2 · LangChain · RAG · Vector DBs |
+| **AI/ML** | Gemini Enterprise Agent Platform · ADK · Gemini · Gemma 4 · KFP v2 · LangChain · RAG · Vector DBs |
 | **Commerce** | UCP · AP2 · A2A · MCP · Shopify MCP · Merchant Center |
 | **Cloud** | Google Cloud · AWS · Azure |
 | **Backend** | Python · Java · Spring Boot · Node.js · Terraform |

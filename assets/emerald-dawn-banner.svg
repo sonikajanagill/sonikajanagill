@@ -1,63 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Sonika Janagill — Emerald Dawn banner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Sonika Janagill, Google Developer Expert in Cloud AI and Google Cloud. Build with AI. Know when not to.">
+  <!-- Emerald Dawn banner (light). Mirrors the sonikajanagill.com homepage hero. -->
+  <style>
+    .spin { animation: spin 10s linear infinite; }
+    .flow { stroke-dasharray: 10 400; animation: flow 4s linear infinite; }
+    .halo { transform-origin: 1060px 150px; animation: halo 5s cubic-bezier(.4,0,.2,1) infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes flow { from { stroke-dashoffset: 10; } to { stroke-dashoffset: -400; } }
+    @keyframes halo { 0%,100% { transform: scale(1); opacity: .55; } 50% { transform: scale(1.12); opacity: .15; } }
+    @media (prefers-reduced-motion: reduce) { .spin, .flow, .halo { animation: none; } }
+  </style>
   <defs>
-    <clipPath id="card">
-      <rect width="1200" height="260" rx="24"/>
-    </clipPath>
+    <clipPath id="card"><rect width="1200" height="320" rx="24"/></clipPath>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FAE0C8"/>
-      <stop offset="100%" stop-color="#BFDDE4"/>
+      <stop offset="0" stop-color="#FAE0C8"/>
+      <stop offset="0.75" stop-color="#BFDDE4"/>
+      <stop offset="1" stop-color="#F4F7F3"/>
     </linearGradient>
   </defs>
 
   <g clip-path="url(#card)">
-    <rect width="1200" height="260" fill="url(#sky)"/>
+    <rect width="1200" height="320" fill="url(#sky)"/>
 
-    <!-- Sun, top right, clear of text and hills -->
-    <circle cx="1030" cy="86" r="44" fill="#F2A05F" opacity="0.92"/>
-    <circle cx="1030" cy="86" r="61" fill="none" stroke="#F2A05F" stroke-width="1.5" opacity="0.4"/>
+    <!-- Hills -->
+    <path d="M0 250 Q200 214 400 240 T820 236 T1200 246 V320 H0 Z" fill="#DDE9E1"/>
+    <path d="M0 272 Q170 240 370 262 T750 258 Q990 240 1200 270 V320 H0 Z" fill="#C8DCCC"/>
+    <path d="M0 294 Q280 268 660 288 T1200 284 V320 H0 Z" fill="#AFCEB7"/>
 
-    <!-- Far hills -->
-    <path d="M0 172 Q200 138 420 158 T840 154 T1200 162 V260 H0 Z" fill="#DDE9E1"/>
-
-    <!-- Mid hills -->
-    <path d="M0 198 Q180 172 380 188 T760 184 Q980 172 1200 194 V260 H0 Z" fill="#C8DCCC"/>
-
-    <!-- Turbines, right of the sun's shadow, well clear of the text column (x < 820) -->
-    <g stroke="#16808F" stroke-width="1.5" stroke-linecap="round" fill="none">
-      <line x1="900" y1="168" x2="900" y2="212"/>
-      <line x1="900" y1="168" x2="900" y2="146"/>
-      <line x1="900" y1="168" x2="918" y2="180"/>
-      <line x1="900" y1="168" x2="882" y2="180"/>
-      <circle cx="900" cy="168" r="2.5" fill="#16808F"/>
-      <line x1="1000" y1="182" x2="1000" y2="216"/>
-      <line x1="1000" y1="182" x2="1000" y2="162"/>
-      <line x1="1000" y1="182" x2="1016" y2="192"/>
-      <line x1="1000" y1="182" x2="984" y2="192"/>
-      <circle cx="1000" cy="182" r="2.5" fill="#16808F"/>
+    <!-- Turbines -->
+    <g stroke="#16808F" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.85">
+      <line x1="560" y1="232" x2="560" y2="276"/><g class="spin" style="transform-origin:560px 232px;animation-duration:10s"><line x1="560" y1="232" x2="560" y2="212"/><line x1="560" y1="232" x2="577" y2="244"/><line x1="560" y1="232" x2="543" y2="244"/><circle cx="560" cy="232" r="2.5" fill="#16808F"/></g>
+      <line x1="700" y1="222" x2="700" y2="272"/><g class="spin" style="transform-origin:700px 222px;animation-duration:8s"><line x1="700" y1="222" x2="700" y2="198"/><line x1="700" y1="222" x2="721" y2="236"/><line x1="700" y1="222" x2="679" y2="236"/><circle cx="700" cy="222" r="2.5" fill="#16808F"/></g>
+      <line x1="840" y1="238" x2="840" y2="270"/><g class="spin" style="transform-origin:840px 238px;animation-duration:12s"><line x1="840" y1="238" x2="840" y2="220"/><line x1="840" y1="238" x2="856" y2="249"/><line x1="840" y1="238" x2="824" y2="249"/><circle cx="840" cy="238" r="2.5" fill="#16808F"/></g>
     </g>
 
-    <!-- Leaf-circuit trace, low on the hill, between the text column and the turbines -->
-    <g stroke="#16808F" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.7">
-      <path d="M680 226 H730 L750 214 H790"/>
-      <circle cx="680" cy="226" r="2.5" fill="#16808F" stroke="none"/>
-      <path d="M790 214 Q790 198 806 192 Q810 208 796 214 Q792 216 790 214 Z" fill="#DDE9E1"/>
+    <!-- Leaf-circuit trace on the near hill -->
+    <g stroke="#16808F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.7">
+      <path d="M60 300 H170 L194 288 H260"/>
+      <path d="M260 288 Q260 270 282 264 Q287 283 268 291 Q263 292 260 288 Z"/>
+    </g>
+    <circle cx="60" cy="300" r="3" fill="#16808F" opacity="0.7"/>
+    <path class="flow" d="M60 300 H170 L194 288 H260" stroke="#0F8A6D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Sun behind the split circuit-tree -->
+    <circle class="halo" cx="1060" cy="150" r="71" fill="none" stroke="#E27D3A" stroke-width="1.5"/>
+    <circle cx="1060" cy="150" r="56" fill="#E27D3A"/>
+    <g transform="translate(1060 227) scale(0.55)" stroke="#16808F" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M0 -255 A115 115 0 0 0 0 -25 Z" fill="#DDE9E1"/>
+      <path d="M0 -255 A115 115 0 0 1 0 -25" stroke-dasharray="3 8" opacity="0.7"/>
+      <path d="M0 82 V-250"/>
+      <path d="M0 -72 Q-30 -80 -62 -86 M0 -102 Q-36 -116 -72 -132 M0 -136 Q-22 -156 -36 -178 M0 -170 Q-10 -196 -18 -214"/>
+      <path d="M0 0 Q0 -22 22 -30 Q24 -8 4 0 Q1 1 0 0 Z" transform="translate(-104 -146) rotate(-50)" fill="#C8DCCC"/>
+      <path d="M0 0 Q0 -22 22 -30 Q24 -8 4 0 Q1 1 0 0 Z" transform="translate(-86 -192) rotate(-15)" fill="#C9B8E8"/>
+      <path d="M0 0 Q0 -22 22 -30 Q24 -8 4 0 Q1 1 0 0 Z" transform="translate(-48 -214) rotate(5)" fill="#AFCEB7"/>
+      <path d="M0 0 Q0 -22 22 -30 Q24 -8 4 0 Q1 1 0 0 Z" transform="translate(-96 -98) rotate(-80)" fill="#AFCEB7"/>
+      <path d="M0 0 Q0 -22 22 -30 Q24 -8 4 0 Q1 1 0 0 Z" transform="translate(-72 -138) rotate(-30)" fill="#F2A05F"/>
+      <path d="M0 0 Q0 -22 22 -30 Q24 -8 4 0 Q1 1 0 0 Z" transform="translate(-40 -174) rotate(0)" fill="#C8DCCC"/>
+      <path d="M0 0 Q0 -22 22 -30 Q24 -8 4 0 Q1 1 0 0 Z" transform="translate(-72 -80) rotate(-65)" fill="#C9B8E8"/>
+      <path d="M0 0 Q0 -22 22 -30 Q24 -8 4 0 Q1 1 0 0 Z" transform="translate(-32 -116) rotate(-20)" fill="#AFCEB7"/>
+      <path d="M0 0 Q0 -22 22 -30 Q24 -8 4 0 Q1 1 0 0 Z" transform="translate(-20 -202) rotate(25)" fill="#C9B8E8"/>
+      <path d="M0 0 Q0 -22 22 -30 Q24 -8 4 0 Q1 1 0 0 Z" transform="translate(-24 -76) rotate(-40)" fill="#C8DCCC"/>
+      <path d="M0 -72 H44 L62 -90 H104 M0 -100 H28 L56 -128 H112 M0 -128 H14 L40 -154 H92 M0 -156 L24 -180 V-208 M0 -184 H10 L30 -204 H64 L80 -220 M0 -212 L18 -230"/>
+      <path d="M104 -90 L112 -128 L92 -154 L80 -220 M24 -208 L92 -154 M64 -204 L92 -154" opacity="0.5" stroke-dasharray="1 5"/>
+      <path d="M112 -128 H176 M104 -90 L120 -74 H186 M92 -154 L110 -172 H160" opacity="0.6"/>
+      <circle cx="104" cy="-90" r="5" fill="#C9B8E8"/><circle cx="112" cy="-128" r="5" fill="#DDE9E1"/><circle cx="92" cy="-154" r="5" fill="#C9B8E8"/>
+      <circle cx="24" cy="-208" r="5" fill="#DDE9E1"/><circle cx="80" cy="-220" r="5" fill="#C9B8E8"/><circle cx="18" cy="-230" r="5" fill="#DDE9E1"/>
+      <g fill="#16808F" stroke="none"><circle cx="62" cy="-90" r="2.5"/><circle cx="56" cy="-128" r="2.5"/><circle cx="40" cy="-154" r="2.5"/><circle cx="30" cy="-204" r="2.5"/><circle cx="176" cy="-128" r="2.5"/><circle cx="186" cy="-74" r="2.5"/><circle cx="160" cy="-172" r="2.5"/></g>
+      <g stroke="#0F8A6D" stroke-width="3">
+        <path class="flow" d="M0 60 V-72 H44 L62 -90 H104"/>
+        <path class="flow" style="animation-delay:1.5s" d="M0 -100 H28 L56 -128 H176"/>
+        <path class="flow" style="animation-delay:2.9s" d="M0 -184 H10 L30 -204 H64 L80 -220"/>
+      </g>
     </g>
 
-    <!-- Near hill -->
-    <path d="M0 214 Q260 190 560 206 T1200 202 V260 H0 Z" fill="#AFCEB7"/>
+    <!-- Status pill -->
+    <rect x="60" y="44" width="494" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.6" stroke="#0F8A6D" stroke-opacity="0.35"/>
+    <circle cx="80" cy="60" r="4" fill="#0F8A6D"/>
+    <text x="94" y="65" textLength="440" lengthAdjust="spacingAndGlyphs" font-family="'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#17251E">GOOGLE DEVELOPER EXPERT · CLOUD AI &amp; GOOGLE CLOUD</text>
 
-    <!-- Text -->
-    <text x="60" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="500" fill="#17251E">Sonika Janagill</text>
-    <text x="60" y="146" font-family="Verdana, Geneva, sans-serif" font-size="19" font-weight="600" fill="#0F8A6D">Google Developer Expert &#183; Cloud AI &amp; Google Cloud</text>
-    <text x="60" y="174" font-family="Verdana, Geneva, sans-serif" font-size="15" fill="#4E6459">Lead Backend Engineer at VML &#183; Data/MLOps Engineer &#183; Watford, UK</text>
-
-    <!-- SJ monogram watermark, bottom-right -->
-    <g transform="translate(1108,196)">
-      <circle cx="30" cy="30" r="26" fill="#F4F7F3" stroke="#0F8A6D" stroke-width="2"/>
-      <text x="30" y="39" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="500" fill="#0F8A6D">SJ</text>
-    </g>
+    <!-- Name and promise -->
+    <text x="58" y="146" font-family="'Fraunces', Georgia, 'Times New Roman', serif" font-size="60" letter-spacing="-1.5" fill="#17251E">Sonika Janagill</text>
+    <text x="60" y="194" font-family="'Fraunces', Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#0F8A6D">Build with AI. Know when not to.</text>
   </g>
 
-  <!-- Card border -->
-  <rect x="0.75" y="0.75" width="1198.5" height="258.5" rx="23.25" fill="none" stroke="#DCE5DD" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="23.25" fill="none" stroke="#DCE5DD" stroke-width="1.5"/>
 </svg>

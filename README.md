@@ -1,4 +1,7 @@
-<img src="assets/emerald-dawn-banner.svg" alt="Sonika Janagill — Google Developer Expert in Cloud AI and Google Cloud" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/emerald-dawn-banner-dark.svg" />
+  <img src="assets/emerald-dawn-banner.svg" alt="Sonika Janagill — Google Developer Expert in Cloud AI and Google Cloud. Build with AI. Know when not to." width="100%" />
+</picture>
 
 ### Hi, I'm [Sonika](https://sonikajanagill.com/) 👋
 

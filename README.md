@@ -2,7 +2,7 @@
 
 ### Hi, I'm [Sonika](https://sonikajanagill.com/) 👋
 
-**Google Developer Expert (GDE) in Cloud AI and Google Cloud** · Lead Backend Engineer at VML · Watford, UK
+**Google Developer Expert (GDE) in Cloud AI and Google Cloud** · Sr Staff Data Engineer at VML Enterprise Solutions · Watford, UK
 
 [![Website](https://img.shields.io/badge/Website-0F8A6D?logo=google-chrome&logoColor=white)](https://sonikajanagill.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonikaj/)
@@ -10,10 +10,10 @@
 
 ## What I work on
 
-I build production AI systems at the intersection of ecommerce and Google Cloud: agentic commerce protocols (UCP, ACP, MCP), MLOps on Vertex AI, and enterprise agent architectures.
+~20 years building enterprise systems, now focused on AI and agentic systems on Google Cloud: agentic ecommerce, Google's Agent Development Kit (ADK), and Vertex AI.
 
-- **Day job:** an MLOps platform on Vertex AI — a Large Marketing Model trained on real-time signals, with an activation layer across channels and clouds.
-- **Community:** VML AI Guild (250+ engineers, 6 countries) · Women Coding Community AI Learning Series · GDG London speaker · ADK Community Calls
+- **At VML:** Agentic Commerce group · Agent Skills programme · AI Guild — driving enterprise adoption of agentic AI at scale.
+- **Community:** Women Coding Community Lead and co-instructor of the AI Learning Series · GDE programme volunteer · mentoring engineers moving into AI/ML.
 
 ## Active projects
 
@@ -21,7 +21,7 @@ I build production AI systems at the intersection of ecommerce and Google Cloud:
 |---|---|
 | [agentic-commerce](https://github.com/sonikajanagill/agentic-commerce) | Multi-protocol commerce server (UCP, ACP, MCP) with buyer and merchant agents and full-duplex checkout via ADK. |
 | [Prism](https://github.com/sonikajanagill/prism) | Multi-agent ADK system that scouts, researches, and recommends article topics. |
-| AgentSkills | Enterprise agent skills for VML AI SDLC workflows. |
+| Agent Skills | Enterprise agent skills for VML's AI-assisted SDLC workflows. |
 | Arch-Lens | Multimodal architecture diagram tool. |
 
 ## Writing
